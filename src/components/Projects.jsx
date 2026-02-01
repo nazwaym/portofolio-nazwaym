@@ -233,8 +233,8 @@ const Projects = () => {
             description: "An elegant e-commerce landing page designed for a Hijab brand, featuring a responsive product gallery and a seamless user interface for online shopping experiences.",
             tags: ["React", "Tailwind", "Vite"],
             image: "/images/projects/hijab.png",
-            demoLink: "https://hijabnazwa.vercel.app/",
-            repoLink: "https://github.com/nazwaym/HijabNazwa.github.io"
+            demoLink: "https://hijab-nazwa.vercel.app/",
+            repoLink: "https://github.com/nazwaym/HijabNazwa.git"
         },
         {
             title: "Dompet Pintar",
@@ -261,7 +261,7 @@ const Projects = () => {
             demoLink: "https://www.figma.com/design/RMLLmcFYpqMiqt9hYbDQBb/IMK?node-id=24-458&t=RprFnzZNFtyyXUQF-1",
         },
         {
-            title: "Resoku",
+            title: "Restoku",
             description: "Restoku is a restaurant ordering web app designed with user-centered flows, clear information, and consistent interaction patterns to support efficient menu browsing, ordering, and admin order management.",
             tags: ["Figma", "UI/UX Design"],
             image: "/images/projects/restoku.png",
